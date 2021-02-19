@@ -1,0 +1,8 @@
+Epoch 1 - avg_loss: 0.9790 avg_accuracy: 0.6479 time: 2516s
+Epoch 2 - avg_loss: 0.7654 avg_accuracy: 0.7262 time: 2518s
+Epoch 3 - avg_loss: 0.7051 avg_accuracy: 0.7496 time: 2507s
+Epoch 4 - avg_loss: 0.6530 avg_accuracy: 0.7740 time: 2497s
+Epoch 5 - avg_loss: 0.6151 avg_accuracy: 0.7863 time: 2508s
+Epoch 6 - avg_loss: 0.6479 avg_accuracy: 0.7741 time: 2601s
+Epoch 7 - avg_loss: 0.6309 avg_accuracy: 0.7808 time: 2594s
+Epoch 8 - avg_loss: 0.5998 avg_accuracy: 0.7930 time: 2563s

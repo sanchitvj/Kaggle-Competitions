@@ -1,0 +1,11 @@
+Epoch 1 - avg_loss: 0.5943 avg_accuracy: 0.7909 time: 741s
+Epoch 2 - avg_loss: 0.4732 avg_accuracy: 0.8404 time: 744s
+Epoch 3 - avg_loss: 0.4369 avg_accuracy: 0.8536 time: 721s
+Epoch 4 - avg_loss: 0.4155 avg_accuracy: 0.8604 time: 697s
+Epoch 5 - avg_loss: 0.3992 avg_accuracy: 0.8625 time: 694s
+Epoch 6 - avg_loss: 0.3842 avg_accuracy: 0.8690 time: 695s
+Epoch 7 - avg_loss: 0.3679 avg_accuracy: 0.8739 time: 701s
+Epoch 8 - avg_loss: 0.3584 avg_accuracy: 0.8775 time: 716s
+Epoch 9 - avg_loss: 0.3465 avg_accuracy: 0.8823 time: 737s
+Epoch 10 - avg_loss: 0.3329 avg_accuracy: 0.8862 time: 744s
+Epoch 11 - avg_loss: 0.3157 avg_accuracy: 0.8932 time: 752s

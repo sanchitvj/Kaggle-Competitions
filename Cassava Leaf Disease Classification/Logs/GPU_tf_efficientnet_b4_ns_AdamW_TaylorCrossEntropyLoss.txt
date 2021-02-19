@@ -1,0 +1,15 @@
+Epoch 1 - avg_loss: 0.5734 avg_accuracy: 0.8043 time: 1225s
+Epoch 2 - avg_loss: 0.4406 avg_accuracy: 0.8520 time: 1217s
+Epoch 3 - avg_loss: 0.4061 avg_accuracy: 0.8669 time: 1215s
+Epoch 4 - avg_loss: 0.4017 avg_accuracy: 0.8667 time: 1218s
+Epoch 5 - avg_loss: 0.3851 avg_accuracy: 0.8723 time: 1218s
+Epoch 6 - avg_loss: 0.3642 avg_accuracy: 0.8802 time: 1219s
+Epoch 7 - avg_loss: 0.3706 avg_accuracy: 0.8758 time: 1216s
+Epoch 8 - avg_loss: 0.3501 avg_accuracy: 0.8841 time: 1217s
+Epoch 9 - avg_loss: 0.3515 avg_accuracy: 0.8831 time: 1217s
+Epoch 10 - avg_loss: 0.3172 avg_accuracy: 0.8956 time: 1217s
+Epoch 11 - avg_loss: 0.3247 avg_accuracy: 0.8940 time: 1270s
+Epoch 12 - avg_loss: 0.3180 avg_accuracy: 0.8963 time: 1251s
+Epoch 13 - avg_loss: 0.3161 avg_accuracy: 0.8961 time: 1250s
+Epoch 14 - avg_loss: 0.2911 avg_accuracy: 0.9048 time: 1250s
+Epoch 15 - avg_loss: 0.2831 avg_accuracy: 0.9082 time: 1254s
