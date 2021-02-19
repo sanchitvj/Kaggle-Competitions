@@ -1,0 +1,4 @@
+- Training notebooks I used in the [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification) are available here.  
+- Some logs with training stats saved are also made public here. 
+- Highest score on public [leaderboard](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard) is 0.9030 and private leaderboard is 0.8995. Rank is in Top 5%, 161/3947 (Silver Medal).
+- Inference notebooks will be available soon.
