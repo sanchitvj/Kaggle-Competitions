@@ -3,3 +3,8 @@
 - Highest score on public [leaderboard](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard) is 0.9030 and private leaderboard is 0.8995. Rank is in Top 4%, 149/3900 (Silver Medal).
 - Inference notebooks will be available soon.  
 - [Link](https://www.kaggle.com/sanchitvj/stratified-k-fold-and-multiple-configs) to view notebook on Kaggle.  
+- Some useful notebook links:  
+  - https://www.kaggle.com/piantic/train-cassava-starter-using-various-loss-funcs  
+  - https://www.kaggle.com/ateplyuk/simplest-starting-code-cassava-leaf-pytorch  
+  - https://www.kaggle.com/yasufuminakama/cassava-resnext50-32x4d-starter-training  
+  - https://www.kaggle.com/mobassir/vit-pytorch-xla-tpu-for-leaf-disease  
